@@ -3,10 +3,10 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="https://bysem.me/feed.xml" rel="self" type="application/atom+xml" />
     <link href="https://bysem.me/" rel="alternate" type="text/html"/>
-    <updated>2020-12-26T00:51:01+00:00</updated>
-    <id>2020-12-26T00:51:01+00:00</id>
+    <updated>2020-12-26T01:23:16+00:00</updated>
+    <id>2020-12-26T01:23:16+00:00</id>
     <title type="html">bysem.me</title>
-    <subtitle>@semspam's minimalistic, self-hosted photo stream.</subtitle>
+    <subtitle>@sem's | Some pictures I made.</subtitle>
     <author>
       <name>Sem Spanhaak</name>
       <email>me@sems.dev</email>
@@ -19,7 +19,7 @@
       <updated>2020-12-01T16:26:00+00:00</updated>
       <id>https://bysem.me//st101931/</id>
       <content type="html">
-        <![CDATA[<figure><a href="https://bysem.me/st101931/"><img src="https://bysem.me//photos/large/ST101931-686656.jpg" alt="ST101931" /></a></figure>
+        <![CDATA[<figure><a href="https://bysem.me/st101931/"><img src="https://bysem.me//photos/large/ST101931-326dde.jpg" alt="ST101931" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,8 +27,8 @@
       <email>me@sems.dev</email>
       <uri>https://sems.dev</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101931-686656.jpg" />
-      <media:content medium="image" url="https://bysem.me//photos/large/ST101931-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101931-326dde.jpg" />
+      <media:content medium="image" url="https://bysem.me//photos/large/ST101931-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">ST101457</title>
@@ -37,7 +37,7 @@
         <updated>2020-08-21T23:40:55+00:00</updated>
         <id>https://bysem.me//st101457/</id>
         <content type="html">
-          <![CDATA[<figure><a href="https://bysem.me/st101457/"><img src="https://bysem.me//photos/large/ST101457-686656.jpg" alt="ST101457" /></a></figure>
+          <![CDATA[<figure><a href="https://bysem.me/st101457/"><img src="https://bysem.me//photos/large/ST101457-326dde.jpg" alt="ST101457" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,8 +45,8 @@
         <email>me@sems.dev</email>
         <uri>https://sems.dev</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101457-686656.jpg" />
-        <media:content medium="image" url="https://bysem.me//photos/large/ST101457-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101457-326dde.jpg" />
+        <media:content medium="image" url="https://bysem.me//photos/large/ST101457-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">ST101431</title>
@@ -55,7 +55,7 @@
           <updated>2020-08-21T23:40:54+00:00</updated>
           <id>https://bysem.me//st101431/</id>
           <content type="html">
-            <![CDATA[<figure><a href="https://bysem.me/st101431/"><img src="https://bysem.me//photos/large/ST101431-686656.jpg" alt="ST101431" /></a></figure>
+            <![CDATA[<figure><a href="https://bysem.me/st101431/"><img src="https://bysem.me//photos/large/ST101431-326dde.jpg" alt="ST101431" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,8 +63,8 @@
           <email>me@sems.dev</email>
           <uri>https://sems.dev</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101431-686656.jpg" />
-          <media:content medium="image" url="https://bysem.me//photos/large/ST101431-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101431-326dde.jpg" />
+          <media:content medium="image" url="https://bysem.me//photos/large/ST101431-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">ST101389</title>
@@ -73,7 +73,7 @@
             <updated>2020-08-21T23:40:41+00:00</updated>
             <id>https://bysem.me//st101389/</id>
             <content type="html">
-              <![CDATA[<figure><a href="https://bysem.me/st101389/"><img src="https://bysem.me//photos/large/ST101389-686656.jpg" alt="ST101389" /></a></figure>
+              <![CDATA[<figure><a href="https://bysem.me/st101389/"><img src="https://bysem.me//photos/large/ST101389-326dde.jpg" alt="ST101389" /></a></figure>
             ]]>
           </content>
           <author>
@@ -81,8 +81,8 @@
             <email>me@sems.dev</email>
             <uri>https://sems.dev</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101389-686656.jpg" />
-            <media:content medium="image" url="https://bysem.me//photos/large/ST101389-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101389-326dde.jpg" />
+            <media:content medium="image" url="https://bysem.me//photos/large/ST101389-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">ST101373</title>
@@ -91,7 +91,7 @@
               <updated>2020-08-21T23:40:39+00:00</updated>
               <id>https://bysem.me//st101373/</id>
               <content type="html">
-                <![CDATA[<figure><a href="https://bysem.me/st101373/"><img src="https://bysem.me//photos/large/ST101373-686656.jpg" alt="ST101373" /></a></figure>
+                <![CDATA[<figure><a href="https://bysem.me/st101373/"><img src="https://bysem.me//photos/large/ST101373-326dde.jpg" alt="ST101373" /></a></figure>
               ]]>
             </content>
             <author>
@@ -99,8 +99,8 @@
               <email>me@sems.dev</email>
               <uri>https://sems.dev</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101373-686656.jpg" />
-              <media:content medium="image" url="https://bysem.me//photos/large/ST101373-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101373-326dde.jpg" />
+              <media:content medium="image" url="https://bysem.me//photos/large/ST101373-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">ST101363</title>
@@ -109,7 +109,7 @@
                 <updated>2020-08-21T23:40:38+00:00</updated>
                 <id>https://bysem.me//st101363/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="https://bysem.me/st101363/"><img src="https://bysem.me//photos/large/ST101363-686656.jpg" alt="ST101363" /></a></figure>
+                  <![CDATA[<figure><a href="https://bysem.me/st101363/"><img src="https://bysem.me//photos/large/ST101363-326dde.jpg" alt="ST101363" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -117,8 +117,8 @@
                 <email>me@sems.dev</email>
                 <uri>https://sems.dev</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101363-686656.jpg" />
-                <media:content medium="image" url="https://bysem.me//photos/large/ST101363-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101363-326dde.jpg" />
+                <media:content medium="image" url="https://bysem.me//photos/large/ST101363-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">ST101315</title>
@@ -127,7 +127,7 @@
                   <updated>2020-08-21T23:40:23+00:00</updated>
                   <id>https://bysem.me//st101315/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="https://bysem.me/st101315/"><img src="https://bysem.me//photos/large/ST101315-686656.jpg" alt="ST101315" /></a></figure>
+                    <![CDATA[<figure><a href="https://bysem.me/st101315/"><img src="https://bysem.me//photos/large/ST101315-326dde.jpg" alt="ST101315" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -135,8 +135,8 @@
                   <email>me@sems.dev</email>
                   <uri>https://sems.dev</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101315-686656.jpg" />
-                  <media:content medium="image" url="https://bysem.me//photos/large/ST101315-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101315-326dde.jpg" />
+                  <media:content medium="image" url="https://bysem.me//photos/large/ST101315-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
                     <title type="html">ST101263</title>
@@ -145,7 +145,7 @@
                     <updated>2020-08-21T23:40:19+00:00</updated>
                     <id>https://bysem.me//st101263/</id>
                     <content type="html">
-                      <![CDATA[<figure><a href="https://bysem.me/st101263/"><img src="https://bysem.me//photos/large/ST101263-686656.jpg" alt="ST101263" /></a></figure>
+                      <![CDATA[<figure><a href="https://bysem.me/st101263/"><img src="https://bysem.me//photos/large/ST101263-326dde.jpg" alt="ST101263" /></a></figure>
                     ]]>
                   </content>
                   <author>
@@ -153,8 +153,8 @@
                     <email>me@sems.dev</email>
                     <uri>https://sems.dev</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101263-686656.jpg" />
-                    <media:content medium="image" url="https://bysem.me//photos/large/ST101263-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101263-326dde.jpg" />
+                    <media:content medium="image" url="https://bysem.me//photos/large/ST101263-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
                       <title type="html">ST101219</title>
@@ -163,7 +163,7 @@
                       <updated>2020-08-21T23:40:16+00:00</updated>
                       <id>https://bysem.me//st101219/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="https://bysem.me/st101219/"><img src="https://bysem.me//photos/large/ST101219-686656.jpg" alt="ST101219" /></a></figure>
+                        <![CDATA[<figure><a href="https://bysem.me/st101219/"><img src="https://bysem.me//photos/large/ST101219-326dde.jpg" alt="ST101219" /></a></figure>
                       ]]>
                     </content>
                     <author>
@@ -171,8 +171,8 @@
                       <email>me@sems.dev</email>
                       <uri>https://sems.dev</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101219-686656.jpg" />
-                      <media:content medium="image" url="https://bysem.me//photos/large/ST101219-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101219-326dde.jpg" />
+                      <media:content medium="image" url="https://bysem.me//photos/large/ST101219-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
                         <title type="html">ST101216</title>
@@ -181,7 +181,7 @@
                         <updated>2020-08-21T23:40:12+00:00</updated>
                         <id>https://bysem.me//st101216/</id>
                         <content type="html">
-                          <![CDATA[<figure><a href="https://bysem.me/st101216/"><img src="https://bysem.me//photos/large/ST101216-686656.jpg" alt="ST101216" /></a></figure>
+                          <![CDATA[<figure><a href="https://bysem.me/st101216/"><img src="https://bysem.me//photos/large/ST101216-326dde.jpg" alt="ST101216" /></a></figure>
                         ]]>
                       </content>
                       <author>
@@ -189,8 +189,8 @@
                         <email>me@sems.dev</email>
                         <uri>https://sems.dev</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101216-686656.jpg" />
-                        <media:content medium="image" url="https://bysem.me//photos/large/ST101216-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101216-326dde.jpg" />
+                        <media:content medium="image" url="https://bysem.me//photos/large/ST101216-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
                           <title type="html">ST100947</title>
@@ -199,7 +199,7 @@
                           <updated>2020-08-02T00:43:12+00:00</updated>
                           <id>https://bysem.me//st100947/</id>
                           <content type="html">
-                            <![CDATA[<figure><a href="https://bysem.me/st100947/"><img src="https://bysem.me//photos/large/ST100947-686656.jpg" alt="ST100947" /></a></figure>
+                            <![CDATA[<figure><a href="https://bysem.me/st100947/"><img src="https://bysem.me//photos/large/ST100947-326dde.jpg" alt="ST100947" /></a></figure>
                           ]]>
                         </content>
                         <author>
@@ -207,8 +207,8 @@
                           <email>me@sems.dev</email>
                           <uri>https://sems.dev</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100947-686656.jpg" />
-                          <media:content medium="image" url="https://bysem.me//photos/large/ST100947-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100947-326dde.jpg" />
+                          <media:content medium="image" url="https://bysem.me//photos/large/ST100947-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
                             <title type="html">ST100925</title>
@@ -217,7 +217,7 @@
                             <updated>2020-08-02T00:43:07+00:00</updated>
                             <id>https://bysem.me//st100925/</id>
                             <content type="html">
-                              <![CDATA[<figure><a href="https://bysem.me/st100925/"><img src="https://bysem.me//photos/large/ST100925-686656.jpg" alt="ST100925" /></a></figure>
+                              <![CDATA[<figure><a href="https://bysem.me/st100925/"><img src="https://bysem.me//photos/large/ST100925-326dde.jpg" alt="ST100925" /></a></figure>
                             ]]>
                           </content>
                           <author>
@@ -225,8 +225,8 @@
                             <email>me@sems.dev</email>
                             <uri>https://sems.dev</uri>
                           </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100925-686656.jpg" />
-                            <media:content medium="image" url="https://bysem.me//photos/large/ST100925-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100925-326dde.jpg" />
+                            <media:content medium="image" url="https://bysem.me//photos/large/ST100925-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
                               <title type="html">ST100888</title>
@@ -235,7 +235,7 @@
                               <updated>2020-08-02T00:43:03+00:00</updated>
                               <id>https://bysem.me//st100888/</id>
                               <content type="html">
-                                <![CDATA[<figure><a href="https://bysem.me/st100888/"><img src="https://bysem.me//photos/large/ST100888-686656.jpg" alt="ST100888" /></a></figure>
+                                <![CDATA[<figure><a href="https://bysem.me/st100888/"><img src="https://bysem.me//photos/large/ST100888-326dde.jpg" alt="ST100888" /></a></figure>
                               ]]>
                             </content>
                             <author>
@@ -243,8 +243,8 @@
                               <email>me@sems.dev</email>
                               <uri>https://sems.dev</uri>
                             </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100888-686656.jpg" />
-                              <media:content medium="image" url="https://bysem.me//photos/large/ST100888-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100888-326dde.jpg" />
+                              <media:content medium="image" url="https://bysem.me//photos/large/ST100888-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
                               <entry>
                                 <title type="html">ST100816</title>
@@ -253,7 +253,7 @@
                                 <updated>2020-07-27T14:09:56+00:00</updated>
                                 <id>https://bysem.me//st100816/</id>
                                 <content type="html">
-                                  <![CDATA[<figure><a href="https://bysem.me/st100816/"><img src="https://bysem.me//photos/large/ST100816-686656.jpg" alt="ST100816" /></a></figure>
+                                  <![CDATA[<figure><a href="https://bysem.me/st100816/"><img src="https://bysem.me//photos/large/ST100816-326dde.jpg" alt="ST100816" /></a></figure>
                                 ]]>
                               </content>
                               <author>
@@ -261,8 +261,8 @@
                                 <email>me@sems.dev</email>
                                 <uri>https://sems.dev</uri>
                               </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100816-686656.jpg" />
-                                <media:content medium="image" url="https://bysem.me//photos/large/ST100816-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST100816-326dde.jpg" />
+                                <media:content medium="image" url="https://bysem.me//photos/large/ST100816-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                 </entry>
                                 <entry>
                                   <title type="html">ST101822</title>
@@ -271,7 +271,7 @@
                                   <updated></updated>
                                   <id>https://bysem.me//st101822/</id>
                                   <content type="html">
-                                    <![CDATA[<figure><a href="https://bysem.me/st101822/"><img src="https://bysem.me//photos/large/ST101822-686656.jpg" alt="ST101822" /></a></figure>
+                                    <![CDATA[<figure><a href="https://bysem.me/st101822/"><img src="https://bysem.me//photos/large/ST101822-326dde.jpg" alt="ST101822" /></a></figure>
                                   ]]>
                                 </content>
                                 <author>
@@ -279,7 +279,7 @@
                                   <email>me@sems.dev</email>
                                   <uri>https://sems.dev</uri>
                                 </author>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101822-686656.jpg" />
-                                  <media:content medium="image" url="https://bysem.me//photos/large/ST101822-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bysem.me//photos/large/ST101822-326dde.jpg" />
+                                  <media:content medium="image" url="https://bysem.me//photos/large/ST101822-326dde.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                   </entry>
                                 </feed>
