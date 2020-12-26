@@ -33,8 +33,6 @@ jobs:
           ./configure --prefix=/usr &&
           make &&
           sudo make install
-      - name: Update bundle
-        run: bundle update
       - name: Install Ruby dependencies
         run: bundle install
 
