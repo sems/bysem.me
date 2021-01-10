@@ -7,6 +7,60 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="st102170" style="background-image: url('/photos/tint/ST102170-65ba1d.jpg')" title="ST102170">
+  <img class="lazyload" data-src="/photos/thumbnail/ST102170-2a24a2.jpg" src="/photos/tint/ST102170-65ba1d.jpg" height="7952" width="5304" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/ST102170-326dde.jpg')"></span>
+  </span>
+  <a class="open" href="/st102170" data-target="st102170">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/st102151" data-target="st102151" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li>ILCE-7RM3</li>
+    <li>1/100</li>
+    <li><span class="aperture"><em>f</em>/</span>4.5</li>
+	</ul> -->
+</li>
+<li class="item " id="st102151" style="background-image: url('/photos/tint/ST102151-65ba1d.jpg')" title="ST102151">
+  <img class="lazyload" data-src="/photos/thumbnail/ST102151-2a24a2.jpg" src="/photos/tint/ST102151-65ba1d.jpg" height="7952" width="5304" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/ST102151-326dde.jpg')"></span>
+  </span>
+  <a class="open" href="/st102151" data-target="st102151">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/st102170" data-target="st102170" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/st102112-1" data-target="st102112-1" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li>ILCE-7RM3</li>
+    <li>1/30</li>
+    <li><span class="aperture"><em>f</em>/</span>5.6</li>
+	</ul> -->
+</li>
+<li class="item " id="st102112-1" style="background-image: url('/photos/tint/ST102112-1-65ba1d.jpg')" title="ST102112-1">
+  <img class="lazyload" data-src="/photos/thumbnail/ST102112-1-2a24a2.jpg" src="/photos/tint/ST102112-1-65ba1d.jpg" height="3950" width="7900" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/ST102112-1-326dde.jpg')"></span>
+  </span>
+  <a class="open" href="/st102112-1" data-target="st102112-1">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/st102151" data-target="st102151" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/st101931" data-target="st101931" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li>ILCE-7RM3</li>
+    <li>1/1</li>
+    <li><span class="aperture"><em>f</em>/</span>2.8</li>
+	</ul> -->
+</li>
 <li class="item " id="st101931" style="background-image: url('/photos/tint/ST101931-65ba1d.jpg')" title="ST101931">
   <img class="lazyload" data-src="/photos/thumbnail/ST101931-2a24a2.jpg" src="/photos/tint/ST101931-65ba1d.jpg" height="5264" width="7369" />
   <span class="full">
@@ -14,6 +68,9 @@ lazyload();
   </span>
   <a class="open" href="/st101931" data-target="st101931">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/st102112-1" data-target="st102112-1" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/st101457" data-target="st101457" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
