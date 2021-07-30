@@ -1,7 +1,7 @@
 {
   "name": "bysem",
   "version": "2.0.0",
-  "homepage": "bysem.me",
+  "homepage": "",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
